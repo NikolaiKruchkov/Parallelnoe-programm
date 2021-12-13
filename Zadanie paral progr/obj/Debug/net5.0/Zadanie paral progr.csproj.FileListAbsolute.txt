@@ -1,0 +1,16 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\bin\Debug\net5.0\Zadanie paral progr.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\bin\Debug\net5.0\Zadanie paral progr.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\bin\Debug\net5.0\Zadanie paral progr.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\bin\Debug\net5.0\Zadanie paral progr.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\bin\Debug\net5.0\Zadanie paral progr.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\bin\Debug\net5.0\ref\Zadanie paral progr.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\bin\Debug\net5.0\Zadanie paral progr.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\obj\Debug\net5.0\Zadanie paral progr.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\obj\Debug\net5.0\Zadanie paral progr.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\obj\Debug\net5.0\Zadanie paral progr.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\obj\Debug\net5.0\Zadanie paral progr.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\obj\Debug\net5.0\Zadanie paral progr.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\obj\Debug\net5.0\Zadanie paral progr.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\obj\Debug\net5.0\ref\Zadanie paral progr.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\obj\Debug\net5.0\Zadanie paral progr.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание паралл прогр\Zadanie paral progr\Zadanie paral progr\obj\Debug\net5.0\Zadanie paral progr.genruntimeconfig.cache
